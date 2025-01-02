@@ -1,5 +1,6 @@
 # Project-specific files
 fit_bot.code-workspace
+settings.json
 
 # Virtual environment directory
 .venv/
